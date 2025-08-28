@@ -9,7 +9,7 @@ const Education = () => {
       institution: "KLE Dr. MS Sheshgiri College of Engineering and Technology",
       year: "2021 - 2025",
       grade: "CGPA: 8.3/10",
-      description: "Specialized in Software Engineering, Data Structures, and Web Development"
+      description: "Computer Science anad Engineering"
     },
     {
       level: "Higher Secondary",
