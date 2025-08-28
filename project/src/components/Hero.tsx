@@ -46,7 +46,7 @@ const Hero = () => {
          <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
             {/* Download Resume Button */}
             <a
-             href="C:\Users\Asus\Desktop\project-bolt-sb1-ndbyvdaa\project\src\Resume.pdf" // Place resume.pdf inside your public/ folder
+             href="https://drive.google.com/file/d/1O5WRUhikC8pwlTBbOCkPfKTfWvxa_J9x/view?usp=sharing" // Place resume.pdf inside your public/ folder
              download="Mohit_Kumar.pdf"
              className="group bg-gradient-to-r from-blue-500 to-purple-600 text-white px-8 py-4 rounded-full font-semibold flex items-center space-x-2 hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-blue-500/25"
              >
