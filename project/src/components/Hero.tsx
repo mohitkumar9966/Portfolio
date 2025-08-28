@@ -51,7 +51,7 @@ const Hero = () => {
              className="group bg-gradient-to-r from-blue-500 to-purple-600 text-white px-8 py-4 rounded-full font-semibold flex items-center space-x-2 hover:scale-105 transition-all duration-300 shadow-lg hover:shadow-blue-500/25"
              >
              <Download className="h-5 w-5 group-hover:animate-bounce" />
-             <span>Download Resume</span>
+             <span>Resume</span>
             </a>
 
           {/* View Projects Button */}
